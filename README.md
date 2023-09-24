@@ -1,2 +1,2 @@
-# Strcture.Angular.Project
+# Angular.Project.Strcture
 How To Build Structure Angular Projects
